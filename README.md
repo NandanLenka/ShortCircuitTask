@@ -1,4 +1,4 @@
-# ShortCircuitTask2
+# ShortCircuitTask
 Traffic Light Control System
 
 A smart traffic light system using Arduino, detecting vehicles via an ultrasonic sensor and managing signals accordingly. Includes a pedestrian button for crossing requests when no vehicles are detected for 30 seconds.
