@@ -1,6 +1,7 @@
 # ShortCircuitTask
 Traffic Light Control System
-
+Task1 link: https://www.tinkercad.com/things/epf0hiPM1kg-task1?sharecode=rfIz1d874PIDgrGfeVLa7R__Q1zZCmpvEM-RyvnvFnE
+Task2 link: https://www.tinkercad.com/things/3Tkp9bWxwMs-task2?sharecode=W0zU0xEovy62BLRrsbQ9I1l2jGQ5kUcc-ELZHWKEDtE
 A smart traffic light system using Arduino, detecting vehicles via an ultrasonic sensor and managing signals accordingly. Includes a pedestrian button for crossing requests when no vehicles are detected for 30 seconds.
 
 Features:
